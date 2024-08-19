@@ -22,7 +22,5 @@ To make this process more efficient, the company wishes to identify the most pot
 - Lead Score Lead+Scoring+Case+Study.ipynb : The python file showing coding and data analysis
 - Assignment Subjective Questions.pdf : Some subjective questions answered
 - LEAD SCORE CASE STUDY.pdf : Final Presentation
-- Leads.csv : Data worked on
-- Leads Data Dictionary.xlsx : Data Dictionary
 - Summary.pdf : Summary on what's done in the entire ipynb file
 
